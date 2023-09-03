@@ -1,2 +1,2 @@
 # MyCRM
-This is a simple CRM system built with Python and Django.
+This is a CRM system built with Python and Django.
